@@ -1,0 +1,7 @@
+pip install streamlit scikit-learn nltk
+
+ python -m venv venv
+
+.\venv\Scripts\activate
+
+clear
